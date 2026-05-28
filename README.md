@@ -33,3 +33,8 @@ DIP (Dependency Inversion Principle): O serviço de checkout depende da abstraç
 
 Padrão de Projeto Utilizado
 Strategy (Comportamental): Utilizado para alternar dinamicamente o algoritmo de cálculo de desconto (Fixo ou Percentual) baseado no tipo de cupom fornecido em tempo de execução.
+
+## Diagrama de Classes
+
+<img width="555" height="301" alt="image" src="https://github.com/user-attachments/assets/cf7eeb7b-71e1-442b-9859-7971c8aa02b5" />
+
